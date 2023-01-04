@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=/home/prado/.config/old-autostart-scripts/emacs-daemon.sh
+Icon=dialog-scripts
+Name=emacs-daemon.sh
+Path=
+Type=Application
+X-KDE-AutostartScript=true

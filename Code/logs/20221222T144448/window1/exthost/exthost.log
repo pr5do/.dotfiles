@@ -1,0 +1,43 @@
+2022-12-22 14:44:51.433 [info] Extension host with pid 118812 started
+2022-12-22 14:44:51.859 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2022-12-22 14:44:51.859 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2022-12-22 14:44:51.860 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+2022-12-22 14:44:51.860 [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: true, activationEvent: '*'
+2022-12-22 14:44:51.860 [info] ExtensionService#_doActivateExtension TabNine.tabnine-vscode, startup: true, activationEvent: '*'
+2022-12-22 14:44:52.319 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2022-12-22 14:44:52.319 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2022-12-22 14:44:52.387 [info] Extension host with pid 118847 started
+2022-12-22 14:44:52.641 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2022-12-22 14:44:52.642 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2022-12-22 14:44:52.642 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2022-12-22 14:44:52.643 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onLanguage:jsonc'
+2022-12-22 14:44:52.643 [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker, startup: false, activationEvent: 'onLanguage:jsonc'
+2022-12-22 14:44:52.678 [info] ExtensionService#_doActivateExtension asvetliakov.vscode-neovim, startup: true, activationEvent: '*'
+2022-12-22 14:44:52.805 [info] Eager extensions activated
+2022-12-22 14:44:52.842 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2022-12-22 14:44:52.843 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2022-12-22 14:44:52.843 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2022-12-22 14:44:52.843 [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+2022-12-22 14:44:52.843 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onStartupFinished', root cause: esbenp.prettier-vscode
+2022-12-22 14:44:52.843 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2022-12-22 14:44:52.844 [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+2022-12-22 14:44:52.856 [info] Eager extensions activated
+2022-12-22 14:44:53.204 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2022-12-22 14:44:53.647 [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker-portuguese, startup: false, activationEvent: 'onStartupFinished'
+2022-12-22 14:44:53.647 [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker-portuguese-brazilian, startup: false, activationEvent: 'onStartupFinished'
+2022-12-22 14:44:53.786 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2022-12-22 14:45:02.537 [info] ExtensionService#_doActivateExtension VSpaceCode.whichkey, startup: false, activationEvent: 'onCommand:whichkey.show'
+2022-12-22 14:45:04.060 [info] Extension host terminating: received terminate message from renderer
+2022-12-22 14:45:04.063 [info] Extension host with pid 118847 exiting with code 0
+2022-12-22 14:45:04.068 [info] Extension host terminating: received terminate message from renderer
+2022-12-22 14:45:04.116 [error] ProxyResolver#resolveProxy DIRECT Canceled: Canceled
+    at new k (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:87831)
+    at u.O (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:11245)
+    at Proxy.G.<computed>.O.charCodeAt.G.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:8535)
+    at U.resolveProxy (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:105:20116)
+    at Object.resolveProxy (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:59336)
+    at useProxySettings (/opt/visual-studio-code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:159:16)
+    at /opt/visual-studio-code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:107:13
+    at /opt/visual-studio-code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:336:13
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+2022-12-22 14:45:04.357 [info] Extension host with pid 118812 exiting with code 0

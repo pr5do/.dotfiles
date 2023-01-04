@@ -1,0 +1,80 @@
+[KFileDialog Settings]
+Recent Files[$e]=macOS Graphic.heic,file:$HOME/Pictures/Wallpapers/universe-background-1920x1080.jpg,file:$HOME/Pictures/Wallpapers/music_piano_4k_5k_hd_music.jpg,file:$HOME/Pictures/Wallpapers/photography-1671669389332-7285.jpg,file:$HOME/Pictures/Wallpapers/matrix-wallpaper.png,file:$HOME/Pictures/Wallpapers/wp10203495-mac-os-4k-wallpapers.jpg,file:$HOME/Pictures/Wallpapers/wp10203482-mac-os-4k-wallpapers.jpg,file:$HOME/Pictures/Wallpapers/wp10203471-mac-os-4k-wallpapers.jpg,file:$HOME/Pictures/Wallpapers/wp10117199-mac-os-4k-wallpapers.jpg,file:$HOME/Pictures/Wallpapers/wp8930920-mac-os-4k-wallpapers.jpg,file:$HOME/Pictures/Wallpapers/wp8453939-mac-os-4k-wallpapers.jpg,file:$HOME/Pictures/Wallpapers/wp6607367-mac-os-4k-wallpapers.jpg,file:$HOME/Pictures/Wallpapers/wp5849105-mac-os-4k-wallpapers.jpg,file:$HOME/Pictures/Wallpapers/wp5561834-mac-os-4k-wallpapers.jpg
+Recent URLs[$e]=file:$HOME/Downloads/Monterey Wallpapers/,file:$HOME/Downloads/,file:$HOME/Pictures/,file:$HOME/,file:$HOME/Pictures/Wallpapers/,file:$HOME/Documents/
+detailViewIconSize=16
+
+[PlasmaViews][Panel 122][Defaults]
+thickness=44
+
+[PlasmaViews][Panel 122][Horizontal1366]
+thickness=44
+
+[PlasmaViews][Panel 145][Defaults]
+thickness=36
+
+[PlasmaViews][Panel 145][Horizontal1366]
+thickness=36
+
+[PlasmaViews][Panel 148][Defaults]
+thickness=27
+
+[PlasmaViews][Panel 148][Horizontal1366]
+thickness=27
+
+[PlasmaViews][Panel 2][Defaults]
+maxLength=1920
+minLength=1920
+offset=0
+thickness=32
+
+[PlasmaViews][Panel 2][Horizontal1366]
+maxLength=1920
+minLength=1920
+thickness=32
+
+[PlasmaViews][Panel 26][Defaults]
+maxLength=1920
+minLength=1920
+offset=0
+thickness=32
+
+[PlasmaViews][Panel 26][Horizontal1366]
+maxLength=1920
+minLength=1920
+thickness=32
+
+[PlasmaViews][Panel 49][Defaults]
+maxLength=1920
+minLength=1920
+offset=0
+thickness=32
+
+[PlasmaViews][Panel 49][Horizontal1366]
+maxLength=1920
+minLength=1920
+thickness=32
+
+[PlasmaViews][Panel 72][Defaults]
+maxLength=1920
+minLength=1920
+offset=0
+thickness=32
+
+[PlasmaViews][Panel 72][Horizontal1366]
+maxLength=1920
+minLength=1920
+thickness=32
+
+[PlasmaViews][Panel 94][Defaults]
+maxLength=1920
+minLength=1920
+offset=0
+thickness=32
+
+[PlasmaViews][Panel 94][Horizontal1366]
+maxLength=1920
+minLength=1920
+thickness=32
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/klipper_clear_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/systemloadviewer_systemmonitor.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/maintain_existing_desktop_icon_sizes.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/unlock_widgets.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/move_desktop_layout_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/digitalclock_rename_timezonedisplay_key.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/no_middle_click_paste_on_panels.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/containmentactions_middlebutton.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/keyboardlayout_migrateiconsetting.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/keyboardlayout_remove_shortcut.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/digitalclock_migrate_font_settings.js

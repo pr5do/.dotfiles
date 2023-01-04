@@ -1,0 +1,48 @@
+[KFileDialog Settings]
+Recent Files[$e]=plasma-monterey.layout.latte,file:$HOME/.local/share/applications/emacsclient.desktop,file:$HOME/.config/application-scripts/emacsclient.sh,file:$HOME/Downloads/Icon-Launchpad/launchpad.png,file:$HOME/Downloads/Latte-Dock-Config/plasma-monterey.layout.latte
+Recent URLs[$e]=file:$HOME/Downloads/Latte-Dock-Config/,file:$HOME/Downloads/Icon-Launchpad/,file:$HOME/,file:$HOME/.config/application-scripts/,file:$HOME/.local/share/applications/
+detailViewIconSize=16
+
+[KPropertiesDialog]
+eDP-1 Height 1366x768 eDP-1=577
+eDP-1 Width 1366x768 eDP-1=476
+
+[LatteSettingsDialog]
+downloadWindowSize=980,600
+windowSize=1366,702
+
+[LatteSettingsDialog][DetailsDialog]
+windowSize=560,640
+
+[LatteSettingsDialog][TabLayouts]
+columnWidths=49,508,129,104
+sortColumn=3
+sortOrder=0
+
+[LatteSettingsDialog][ViewsDialog]
+columnWidths=59,256,142,135,131
+sortColumn=2
+sortOrder=0
+windowSize=980,634
+
+[PlasmaThemeExtended]
+outlineWidth=1
+
+[ScreenConnectors]
+10=eDP-1:::0,0 1366x768
+
+[UniversalSettings]
+badges3DStyle=false
+canDisableBorders=true
+contextMenuActionsAlwaysShown=_layouts,_preferences,_quit_latte,_separator1,_add_latte_widgets,_add_view
+inAdvancedModeForEditSettings=true
+isAvailableGeometryBroadcastedToPlasma=true
+launchers=
+memoryUsage=1
+metaPressAndHoldEnabled=true
+mouseSensitivity=0
+screenTrackerInterval=2500
+showInfoWindow=false
+singleModeLayoutName=plasma-monterey
+userConfiguredAutostart=true
+version=2

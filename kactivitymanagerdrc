@@ -1,0 +1,25 @@
+[Plugins]
+org.kde.ActivityManager.VirtualDesktopSwitchEnabled=true
+
+[activities]
+2415f5bc-a9bf-4f40-9c71-ceb7aefaa865=5 - Utils
+29734d55-d43f-4b2a-94e4-f7a5f94bc84f=4 - Music
+31edcf33-67f7-4785-aacf-d546ba910d23=2 - Code
+38752299-0771-4240-b24b-a75d96646052=1 - Default/Main
+8d241afd-4479-4bec-979e-ccda069f78c7=3 - Study
+
+[activities-descriptions]
+2415f5bc-a9bf-4f40-9c71-ceb7aefaa865=Running anything....
+29734d55-d43f-4b2a-94e4-f7a5f94bc84f=Spotify and music production stuff!
+31edcf33-67f7-4785-aacf-d546ba910d23=Coding Stuff! Brave browser (for coding related searches) and coding setup
+38752299-0771-4240-b24b-a75d96646052=Browser and fast use applications
+8d241afd-4479-4bec-979e-ccda069f78c7=Note-taking (Doom Emacs with Org-Mode) and Xournal++
+
+[activities-icons]
+2415f5bc-a9bf-4f40-9c71-ceb7aefaa865=/home/prado/Downloads/icons8-hand-tools-100.png
+29734d55-d43f-4b2a-94e4-f7a5f94bc84f=deepin-music-player
+31edcf33-67f7-4785-aacf-d546ba910d23=/home/prado/Downloads/code.png
+8d241afd-4479-4bec-979e-ccda069f78c7=/home/prado/Downloads/study.png
+
+[main]
+currentActivity=31edcf33-67f7-4785-aacf-d546ba910d23

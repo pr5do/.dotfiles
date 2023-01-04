@@ -1,0 +1,11 @@
+[Event/fatalerror]
+Action=Sound|Popup|Logfile
+Execute=
+Logfile=
+TTS=
+
+[Event/plasmoidDeleted]
+Execute=
+Logfile=
+Sound=
+TTS=

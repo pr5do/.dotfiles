@@ -1,0 +1,35 @@
+2022-12-21 19:10:25.867 [info] Extension host with pid 5337 started
+2022-12-21 19:10:25.868 [info] Skipping acquiring lock for /home/prado/.config/Code/User/workspaceStorage/da6a9dfd1ca40119dcb26848b66d4040.
+2022-12-21 19:10:26.122 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2022-12-21 19:10:26.123 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2022-12-21 19:10:26.123 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2022-12-21 19:10:26.123 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+2022-12-21 19:10:26.124 [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: true, activationEvent: '*'
+2022-12-21 19:10:26.124 [info] ExtensionService#_doActivateExtension TabNine.tabnine-vscode, startup: true, activationEvent: '*'
+2022-12-21 19:10:26.342 [info] Extension host with pid 5371 started
+2022-12-21 19:10:26.342 [info] Skipping acquiring lock for /home/prado/.config/Code/User/workspaceStorage/da6a9dfd1ca40119dcb26848b66d4040.
+2022-12-21 19:10:26.424 [info] ExtensionService#_doActivateExtension asvetliakov.vscode-neovim, startup: true, activationEvent: '*'
+2022-12-21 19:10:26.442 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2022-12-21 19:10:26.442 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2022-12-21 19:10:26.549 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2022-12-21 19:10:26.549 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2022-12-21 19:10:26.549 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2022-12-21 19:10:26.549 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onLanguage:jsonc'
+2022-12-21 19:10:26.550 [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker, startup: false, activationEvent: 'onLanguage:jsonc'
+2022-12-21 19:10:26.661 [info] Eager extensions activated
+2022-12-21 19:10:26.777 [info] Eager extensions activated
+2022-12-21 19:10:26.860 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2022-12-21 19:10:26.860 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2022-12-21 19:10:26.860 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2022-12-21 19:10:26.861 [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+2022-12-21 19:10:26.861 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onStartupFinished', root cause: esbenp.prettier-vscode
+2022-12-21 19:10:26.861 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2022-12-21 19:10:26.861 [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+2022-12-21 19:10:27.089 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2022-12-21 19:10:27.396 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2022-12-21 19:10:27.544 [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker-portuguese, startup: false, activationEvent: 'onStartupFinished'
+2022-12-21 19:10:27.544 [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker-portuguese-brazilian, startup: false, activationEvent: 'onStartupFinished'
+2022-12-21 19:10:52.379 [info] Extension host terminating: received terminate message from renderer
+2022-12-21 19:10:52.383 [info] Extension host with pid 5371 exiting with code 0
+2022-12-21 19:10:52.394 [info] Extension host terminating: received terminate message from renderer
+2022-12-21 19:10:52.708 [info] Extension host with pid 5337 exiting with code 0

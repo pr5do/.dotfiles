@@ -1,0 +1,568 @@
+{
+   "checksum": "2b16949c056a171816fd4dae55bf0e3a",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13313352844000000",
+            "date_last_used": "0",
+            "guid": "b0c3c5ac-f9ec-4a62-b051-621898d0e6e5",
+            "id": "22",
+            "name": "Flathub",
+            "type": "url",
+            "url": "https://flathub.org/apps"
+         }, {
+            "children": [ {
+               "date_added": "13313794013000000",
+               "date_last_used": "13316282888223584",
+               "guid": "6210f36a-ce0a-49e5-bf5d-31b2546b4e12",
+               "id": "27",
+               "name": "Course | CS50's Web Programming with Python and JavaScript | edX",
+               "type": "url",
+               "url": "https://learning.edx.org/course/course-v1:HarvardX+CS50W+Web/home"
+            }, {
+               "children": [ {
+                  "date_added": "13315613992000000",
+                  "date_last_used": "0",
+                  "guid": "f6ba4353-3294-48aa-b8e1-b295352c20e5",
+                  "id": "30",
+                  "name": "(102) Git Tutorial for Beginners: Command-Line Fundamentals - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=HVsySz-h9r4&list=PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx"
+               }, {
+                  "date_added": "13315616248000000",
+                  "date_last_used": "0",
+                  "guid": "a1e509af-a1ab-44ec-a99c-95ac0dd25b06",
+                  "id": "31",
+                  "name": "(103) Git Tutorial For Dummies - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=mJ-qvsxPHpY&t=443s"
+               }, {
+                  "date_added": "13315613562000000",
+                  "date_last_used": "0",
+                  "guid": "ba8e192f-8a51-488a-8ffe-c4b68958de44",
+                  "id": "32",
+                  "name": "Asabeneh/10-days-of-git-and-github",
+                  "type": "url",
+                  "url": "https://github.com/Asabeneh/10-days-of-git-and-github"
+               }, {
+                  "date_added": "13316020182000000",
+                  "date_last_used": "0",
+                  "guid": "1a206a3e-58be-4870-b8e4-94050d018e41",
+                  "id": "33",
+                  "name": "Entendendo GIT | (não é um tutorial!) - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=6Czd1Yetaac&list=PLdsnXVqbHDUdMxa2hOT5HfFZJGHpFWfNj&index=9"
+               } ],
+               "date_added": "13316282811131914",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "4f92af38-7a6a-4e2e-8c9a-48db84992af3",
+               "id": "29",
+               "name": "Git",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13315613298000000",
+                  "date_last_used": "0",
+                  "guid": "8d8bd2e9-2266-4f97-935d-190cd74247fd",
+                  "id": "35",
+                  "name": "Asabeneh/30-Days-Of-JavaScript: 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",
+                  "type": "url",
+                  "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript"
+               }, {
+                  "date_added": "13315627937000000",
+                  "date_last_used": "0",
+                  "guid": "753a7245-fe60-487a-9fed-ca267159c03b",
+                  "id": "36",
+                  "name": "JavaScript Algorithms and Data Structures Certification | freeCodeCamp.org",
+                  "type": "url",
+                  "url": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/"
+               }, {
+                  "date_added": "13315618347000000",
+                  "date_last_used": "0",
+                  "guid": "64ea429e-9b2f-4b2c-8a9d-8044eab88ac7",
+                  "id": "37",
+                  "name": "TUDO que você deve estudar de JavaScript antes do React - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=37SwqREHRGI"
+               }, {
+                  "date_added": "13315771769000000",
+                  "date_last_used": "0",
+                  "guid": "5e808254-1c22-44fa-9953-b1af1ab641d9",
+                  "id": "38",
+                  "name": "(17) JavaScript Course - Teaser - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1"
+               } ],
+               "date_added": "13316282811132140",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "c165f88c-fccd-4123-9c49-e2ec1f6de15d",
+               "id": "34",
+               "name": "Javascript",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13315613319000000",
+                  "date_last_used": "0",
+                  "guid": "4a511cc5-74df-4617-a1b2-c02cb698ef9f",
+                  "id": "40",
+                  "name": "Asabeneh/30-Days-Of-React: 30 Days of React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS. This challenge may take more than 100 days, follow your own pace.",
+                  "type": "url",
+                  "url": "https://github.com/Asabeneh/30-Days-Of-React"
+               }, {
+                  "date_added": "13315628046000000",
+                  "date_last_used": "0",
+                  "guid": "f8b2887b-cf5f-4ad6-b2d4-faabdc8cf19d",
+                  "id": "41",
+                  "name": "(3) ReactJS Course [1] - What is React? How to setup a React App? - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=U2Wltnv-doo&list=PLpPqplz6dKxW5ZfERUPoYTtNUNvrEebAR"
+               }, {
+                  "date_added": "13315670619000000",
+                  "date_last_used": "0",
+                  "guid": "c7ffdad2-77a5-4cf4-9f39-c61e2f1618f4",
+                  "id": "42",
+                  "name": "(3) Coding a Quiz App in ReactJS - React Resume Projects - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=8LNb18ibNGs&list=PLpPqplz6dKxVEqex8RMhgZUUe5_Sc6QHa"
+               }, {
+                  "date_added": "13315627955000000",
+                  "date_last_used": "0",
+                  "guid": "24833363-23e3-4f73-8c2b-e281b60766e8",
+                  "id": "43",
+                  "name": "Front End Development Libraries Certification | freeCodeCamp.org",
+                  "type": "url",
+                  "url": "https://www.freecodecamp.org/learn/front-end-development-libraries/#jquery"
+               } ],
+               "date_added": "13316282811132384",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "b5e404c7-8cba-46ae-9f77-87bf77101a7b",
+               "id": "39",
+               "name": "React",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "children": [ {
+                     "date_added": "13315771476000000",
+                     "date_last_used": "0",
+                     "guid": "5fde60e0-5dcb-4751-bd65-20e4d98dd162",
+                     "id": "46",
+                     "name": "(17) Começa aqui o novo @CursoemVideo de HTML5 e CSS3 - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n"
+                  }, {
+                     "date_added": "13315771491000000",
+                     "date_last_used": "0",
+                     "guid": "74c9cf61-7189-432a-8e47-5278d4ed83b7",
+                     "id": "47",
+                     "name": "(17) O que vamos aprender no módulo 02? - @Curso em Vídeo HTML5 + CSS3 - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=vPNIAJ9B4hg&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s"
+                  }, {
+                     "date_added": "13315771495000000",
+                     "date_last_used": "0",
+                     "guid": "de8fe9a1-b44d-4a39-b11d-8a5abcf4ad43",
+                     "id": "48",
+                     "name": "(17) O que vamos aprender no módulo 3? - @Curso em Vídeo HTML5 + CSS3 - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=ofFgnDtn_1c&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ"
+                  }, {
+                     "date_added": "13315771498000000",
+                     "date_last_used": "0",
+                     "guid": "d8ce82b8-30aa-452e-93ab-97c197b02fa4",
+                     "id": "49",
+                     "name": "(17) O que vamos aprender no módulo 4? - @Curso em Vídeo HTML5 + CSS3 - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=zHKHMmEG9vE&list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT"
+                  } ],
+                  "date_added": "13316282811132687",
+                  "date_last_used": "0",
+                  "date_modified": "0",
+                  "guid": "05f19bde-e269-44a5-9b22-a49fd116bd30",
+                  "id": "45",
+                  "name": "Curso em Vídeo - HTML5 e CSS3",
+                  "type": "folder"
+               }, {
+                  "date_added": "13315627930000000",
+                  "date_last_used": "0",
+                  "guid": "6178ad54-a496-4bcb-91d0-52bad606bd63",
+                  "id": "50",
+                  "name": "(New) Responsive Web Design Certification | freeCodeCamp.org",
+                  "type": "url",
+                  "url": "https://www.freecodecamp.org/learn/2022/responsive-web-design/"
+               }, {
+                  "date_added": "13315682098000000",
+                  "date_last_used": "0",
+                  "guid": "fcb65600-7a93-486d-b687-537ed4d5ffbf",
+                  "id": "51",
+                  "name": "100 Days CSS Challenge",
+                  "type": "url",
+                  "url": "https://100dayscss.com/"
+               }, {
+                  "date_added": "13315681968000000",
+                  "date_last_used": "0",
+                  "guid": "e08a16c7-f229-404c-98ff-16a6130f5ab5",
+                  "id": "52",
+                  "name": "Frontend Mentor | Challenges",
+                  "type": "url",
+                  "url": "https://www.frontendmentor.io/challenges"
+               } ],
+               "date_added": "13316282811132664",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "2f995997-bde7-4afe-9012-d043ce49bf55",
+               "id": "44",
+               "name": "HTML e CSS",
+               "type": "folder"
+            }, {
+               "date_added": "13316105596000000",
+               "date_last_used": "0",
+               "guid": "dcfdf07b-ddc4-4410-8b1f-0b9515c6975b",
+               "id": "53",
+               "name": "O Guia +Hardcore de Introdução à COMPUTAÇÃO - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=8G80nuEyDN4&list=PLdsnXVqbHDUcQIuiH9b-i9A85H3A2ZW5W"
+            } ],
+            "date_added": "13316282811131775",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "5753d449-3aad-4e25-a2fb-aaaccaceab67",
+            "id": "26",
+            "name": "Web Development",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13314561626000000",
+               "date_last_used": "0",
+               "guid": "55e807bf-9cf8-4442-9660-243ba3a5bd29",
+               "id": "62",
+               "name": "Ethical Hacking in 12 Hours (Networking, Linux, Python, Basic Hacking)",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=8234s"
+            }, {
+               "date_added": "13314636019000000",
+               "date_last_used": "0",
+               "guid": "9d2da55b-e362-41f2-b37f-1e9d19483c65",
+               "id": "63",
+               "name": "(119) Become an Ethical Hacker for $0 - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=u4VWQZ8KLmI&t=688s"
+            }, {
+               "children": [ {
+                  "date_added": "13314909810000000",
+                  "date_last_used": "0",
+                  "guid": "f64f9486-a749-4bae-ac0e-94569e28a5a8",
+                  "id": "65",
+                  "name": "(155) Penetration Testing Bootcamp - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/playlist?list=PLBf0hzazHTGOepimcP15eS6Y-aR4m6ql3"
+               }, {
+                  "date_added": "13314909814000000",
+                  "date_last_used": "0",
+                  "guid": "da53efd5-1e07-44e5-bc07-e21864f5dbfd",
+                  "id": "66",
+                  "name": "(155) Red Team Tutorials - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/playlist?list=PLBf0hzazHTGMjSlPmJ73Cydh9vCqxukCu"
+               }, {
+                  "date_added": "13314909821000000",
+                  "date_last_used": "0",
+                  "guid": "fff1dd50-bfc0-42c7-8875-24f7ab122f50",
+                  "id": "67",
+                  "name": "(155) Ethical Hacking & Penetration Testing - Complete Course - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/playlist?list=PLBf0hzazHTGOEuhPQSnq-Ej8jRyXxfYvl"
+               }, {
+                  "date_added": "13314635680000000",
+                  "date_last_used": "0",
+                  "guid": "7705b7d3-2433-4c4b-b2ad-dad470bb1110",
+                  "id": "68",
+                  "name": "(119) Full Ethical Hacking Course - Beginner Network Penetration Testing (2019) - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=WnN6dbos5u8"
+               } ],
+               "date_added": "13316282811133655",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "57b875f6-337f-4db7-9707-37b6c8d99b7c",
+               "id": "64",
+               "name": "Pentesting",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13314650390000000",
+                  "date_last_used": "0",
+                  "guid": "aa1b7d6c-638f-4a51-a835-5bae0a7aad0c",
+                  "id": "70",
+                  "name": "Web Security Academy: Free Online Training from PortSwigger",
+                  "type": "url",
+                  "url": "https://portswigger.net/web-security"
+               }, {
+                  "date_added": "13314909817000000",
+                  "date_last_used": "0",
+                  "guid": "062d73c8-b2a6-4e38-949e-8a243e70cac2",
+                  "id": "71",
+                  "name": "(155) Web App Penetration Testing Tutorials - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/playlist?list=PLBf0hzazHTGO3EpGAs718LvLsiMIv9dSC"
+               } ],
+               "date_added": "13316282811133831",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "c30ce729-a896-4c22-b633-4b0f86d16bc9",
+               "id": "69",
+               "name": "Web App Hacking",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13314650310000000",
+                  "date_last_used": "0",
+                  "guid": "0626f6ae-ba71-41fe-8e40-16085cf42e34",
+                  "id": "73",
+                  "name": "TryHackMe | Cyber Security Training",
+                  "type": "url",
+                  "url": "https://tryhackme.com/"
+               }, {
+                  "date_added": "13314650375000000",
+                  "date_last_used": "0",
+                  "guid": "f7ed6fee-447f-4f6d-b4c6-0705eb842ada",
+                  "id": "74",
+                  "name": "University Archives | Bugcrowd",
+                  "type": "url",
+                  "url": "https://www.bugcrowd.com/hackers/bugcrowd-university/"
+               }, {
+                  "date_added": "13314650380000000",
+                  "date_last_used": "0",
+                  "guid": "1031d60d-2935-4a3f-9d36-f765242d730d",
+                  "id": "75",
+                  "name": "Home | Hacker101",
+                  "type": "url",
+                  "url": "https://www.hacker101.com/"
+               }, {
+                  "date_added": "13314650386000000",
+                  "date_last_used": "0",
+                  "guid": "55d07d13-940d-4024-a2f8-ca0f6d966b08",
+                  "id": "76",
+                  "name": "Hacktivity",
+                  "type": "url",
+                  "url": "https://hackerone.com/hacktivity"
+               }, {
+                  "date_added": "13315086742000000",
+                  "date_last_used": "0",
+                  "guid": "d47e1ca0-a6bb-4981-841e-287a16405c8c",
+                  "id": "77",
+                  "name": "picoCTF - CMU Cybersecurity Competition",
+                  "type": "url",
+                  "url": "https://picoctf.com/"
+               }, {
+                  "date_added": "13315086786000000",
+                  "date_last_used": "0",
+                  "guid": "094ef57c-2153-46c3-9e07-45b0c3b38646",
+                  "id": "78",
+                  "name": "Google CTF",
+                  "type": "url",
+                  "url": "https://capturetheflag.withgoogle.com/"
+               }, {
+                  "date_added": "13315086800000000",
+                  "date_last_used": "0",
+                  "guid": "2472a8f3-2968-45b1-bb48-8feda80feb30",
+                  "id": "79",
+                  "name": "Best Bug Bounty Platforms 2022",
+                  "type": "url",
+                  "url": "https://www.trustradius.com/bug-bounty"
+               } ],
+               "date_added": "13316282811133974",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "e5ff4002-40a6-4ef5-8954-7de23d915775",
+               "id": "72",
+               "name": "Practice",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13314573656000000",
+                  "date_last_used": "0",
+                  "guid": "6fab8f74-8311-4bf4-8973-2647f47ea63c",
+                  "id": "81",
+                  "name": "(116) Linux Essentials For Hackers - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/playlist?list=PLBf0hzazHTGMh2fe2MFf3lCgk0rKmS2by"
+               }, {
+                  "date_added": "13314573663000000",
+                  "date_last_used": "0",
+                  "guid": "6ffddb23-a920-4084-898a-250366b174b4",
+                  "id": "82",
+                  "name": "Linux Survival | Where learning Linux is easy",
+                  "type": "url",
+                  "url": "https://linuxsurvival.com/"
+               }, {
+                  "date_added": "13314573668000000",
+                  "date_last_used": "0",
+                  "guid": "40796e3e-5e9c-4fcb-bdfd-9864b57010c5",
+                  "id": "83",
+                  "name": "OverTheWire: Bandit",
+                  "type": "url",
+                  "url": "https://overthewire.org/wargames/bandit/"
+               }, {
+                  "date_added": "13314635525000000",
+                  "date_last_used": "0",
+                  "guid": "e826e1c4-59b9-4b67-af34-15d94d5aa03e",
+                  "id": "84",
+                  "name": "ArchWiki",
+                  "type": "url",
+                  "url": "https://wiki.archlinux.org/"
+               }, {
+                  "date_added": "13314751844000000",
+                  "date_last_used": "0",
+                  "guid": "0ad6c210-efab-4655-a7b4-5e73f1c6bf3f",
+                  "id": "85",
+                  "name": "(134) Write Your Own Bash Scripts for Automation [Tutorial] - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=PPQ8m8xQAs8"
+               }, {
+                  "date_added": "13314635604000000",
+                  "date_last_used": "0",
+                  "guid": "7c4053e9-1ef7-4935-9385-9c74ab1eeea0",
+                  "id": "86",
+                  "name": "(119) The Complete Linux for Ethical Hackers Course for 2019 - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=rZsJieGi8os"
+               }, {
+                  "date_added": "13315173769000000",
+                  "date_last_used": "0",
+                  "guid": "3bdb045b-c938-42ac-a542-e2a0d1d25f72",
+                  "id": "87",
+                  "name": "Shell Scripting - Introduction & Shebang - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=LTuuMtQR1uQ&list=PLBf0hzazHTGMJzHon4YXGscxUvsFpxrZT"
+               }, {
+                  "date_added": "13315430039000000",
+                  "date_last_used": "0",
+                  "guid": "2c35ecd2-be68-4d4c-83d6-25728ad89a23",
+                  "id": "88",
+                  "name": "Regular Expression Basics - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=KJG1dETacLI"
+               } ],
+               "date_added": "13316282811134327",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "0a915b41-1e8a-49d0-882b-7871984a0770",
+               "id": "80",
+               "name": "Linux",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13314574190000000",
+                  "date_last_used": "0",
+                  "guid": "37d57859-f029-4ad8-8e41-447dbe1c540d",
+                  "id": "90",
+                  "name": "Network Programming with Python Course (build a port scanner, mailing client, chat room, DDOS) - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=FGdiSJakIS4"
+               }, {
+                  "date_added": "13315008063000000",
+                  "date_last_used": "0",
+                  "guid": "ecdfaf7c-4688-4e9d-9ce8-e63fa10a6364",
+                  "id": "91",
+                  "name": "(10) Introdução a Redes: Como Dados viram Ondas? | Parte 1 - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=0TndL-Nh6Ok&list=PLdsnXVqbHDUcTGjNZuRYCVj3AZtdt6oG7"
+               }, {
+                  "date_added": "13315008777000000",
+                  "date_last_used": "0",
+                  "guid": "5df2c14c-619f-4ac2-b440-fb364a380a89",
+                  "id": "92",
+                  "name": "(10) Python Network Programming - TCP/IP Socket Programming - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=6jteAOmdsYg&list=PLhTjy8cBISErYuLZUvVOYsR1giva2payF"
+               }, {
+                  "date_added": "13315013557000000",
+                  "date_last_used": "0",
+                  "guid": "249099fc-d3b2-42a1-b058-f8e516fd6f04",
+                  "id": "93",
+                  "name": "(13) FREE CCNA // What is a Network? // Day 0 - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=S7MNX_UD7vY&list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P"
+               }, {
+                  "date_added": "13315013662000000",
+                  "date_last_used": "0",
+                  "guid": "96256f33-1586-4b3e-b358-eea90c35edd3",
+                  "id": "94",
+                  "name": "Introduction to Networking | edX",
+                  "type": "url",
+                  "url": "https://www.edx.org/course/introduction-to-networking?index=product&queryID=5da64e4d3dacce4c40e413c7c98cba76&position=1"
+               }, {
+                  "date_added": "13315062410000000",
+                  "date_last_used": "0",
+                  "guid": "1b1cc0a4-b91a-478b-b6e9-45ba274dfdb8",
+                  "id": "95",
+                  "name": "(18) Curso Redes de Computadores Grátis - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/playlist?list=PLHz_AreHm4dkd4lr9G0Up-W-YaHYdTDuP"
+               }, {
+                  "date_added": "13315519895000000",
+                  "date_last_used": "0",
+                  "guid": "651777b9-498c-4f63-b87f-5933be088519",
+                  "id": "96",
+                  "name": "(80) Free CCNA Training | Part 1 - VLANs - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=6tl1GlXjtUQ&list=PLDQaRcbiSnqEDtULk0YIO-Lo2x5Yb_0yv"
+               }, {
+                  "date_added": "13315519906000000",
+                  "date_last_used": "0",
+                  "guid": "d750ddee-c3c9-4d18-88cd-e9a35b160dbf",
+                  "id": "97",
+                  "name": "(80) Sending digital information over a wire | Networking tutorial (1 of 13) - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=XaGXPObx2Gs&list=PLowKtXNTBypH19whXTVoG3oKSuOcw_XeW"
+               } ],
+               "date_added": "13316282811134591",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "36cb32eb-a85b-4ea5-96ac-8ab56ddc93a6",
+               "id": "89",
+               "name": "Networking",
+               "type": "folder"
+            } ],
+            "date_added": "13316282811133563",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "c32a28b9-5edd-4f88-a6c7-c535a0a2b728",
+            "id": "61",
+            "name": "Hacking",
+            "type": "folder"
+         } ],
+         "date_added": "13316282715695824",
+         "date_last_used": "0",
+         "date_modified": "13316282859354882",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13316282715695826",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13316282715695827",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

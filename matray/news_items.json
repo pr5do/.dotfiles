@@ -1,0 +1,68 @@
+{
+  "Items" : [
+    {
+      "GUID" : "forum.manjaro.org-topic-129983",
+      "URL" : "https://forum.manjaro.org/t/manjaro-22-0-sikaris-released/129983",
+      "Title" : "Manjaro 22.0 Sikaris released",
+      "Category" : "Releases",
+      "PublishedDate" : "2022-12-24T07:47:03Z",
+      "PublishedDateUnix" : 1671868023,
+      "WasOpened" : true,
+      "NotificationSent" : true
+    },
+    {
+      "GUID" : "forum.manjaro.org-topic-129970",
+      "URL" : "https://forum.manjaro.org/t/stable-update-2022-12-24-kernels-xfce-systemd-thunderbird-kde-git/129970",
+      "Title" : "[Stable Update] 2022-12-24 - Kernels, XFCE, Systemd, Thunderbird, KDE-Git",
+      "Category" : "Stable Updates",
+      "PublishedDate" : "2022-12-24T04:27:02Z",
+      "PublishedDateUnix" : 1671856022,
+      "NotificationSent" : true
+    },
+    {
+      "GUID" : "forum.manjaro.org-topic-129604",
+      "URL" : "https://forum.manjaro.org/t/stable-update-2022-12-20-kernels-xfce-4-18-kde-frameworks-kde-gear-mesa-plasma-mobile-thunderbird-firefox/129604",
+      "Title" : "[Stable Update] 2022-12-20 - Kernels, XFCE 4.18, KDE Frameworks, Kde Gear, Mesa, Plasma-Mobile, Thunderbird, Firefox",
+      "Category" : "Stable Updates",
+      "PublishedDate" : "2022-12-20T12:55:56Z",
+      "PublishedDateUnix" : 1671540956,
+      "NotificationSent" : true
+    },
+    {
+      "GUID" : "forum.manjaro.org-topic-128453",
+      "URL" : "https://forum.manjaro.org/t/stable-update-2022-12-06-kernels-mesa-plasma-cinnamon-nvidia-libreoffice-pipewire-virtualbox/128453",
+      "Title" : "[Stable Update] 2022-12-06 - Kernels, Mesa, Plasma, Cinnamon, Nvidia, LibreOffice, Pipewire, Virtualbox",
+      "Category" : "Stable Updates",
+      "PublishedDate" : "2022-12-06T07:15:29Z",
+      "PublishedDateUnix" : 1670310929,
+      "NotificationSent" : true
+    },
+    {
+      "GUID" : "forum.manjaro.org-topic-126824",
+      "URL" : "https://forum.manjaro.org/t/stable-update-2022-11-14-kernels-gnome-43-1-plasma-5-26-3-systemd-251-8-firefox-106-0-5-thunderbird-lxqt/126824",
+      "Title" : "[Stable Update] 2022-11-14 - Kernels, GNOME 43.1, Plasma 5.26.3, Systemd 251.8, Firefox 106.0.5, Thunderbird, LXQt",
+      "Category" : "Stable Updates",
+      "PublishedDate" : "2022-11-14T10:07:04Z",
+      "PublishedDateUnix" : 1668420424,
+      "NotificationSent" : true
+    },
+    {
+      "GUID" : "forum.manjaro.org-topic-125684",
+      "URL" : "https://forum.manjaro.org/t/stable-update-2022-11-02-kernel-plasma-5-26-2-plasma-mobile-gear-22-09-libreoffice-virtualbox-7-0-2-systemd-mesa/125684",
+      "Title" : "[Stable Update] 2022-11-02 - Kernel, Plasma 5.26.2, Plasma Mobile Gear 22.09, LibreOffice, Virtualbox 7.0.2, Systemd, Mesa",
+      "Category" : "Stable Updates",
+      "PublishedDate" : "2022-11-02T08:51:08Z",
+      "PublishedDateUnix" : 1667379068,
+      "NotificationSent" : true
+    },
+    {
+      "GUID" : "forum.manjaro.org-topic-123838",
+      "URL" : "https://forum.manjaro.org/t/stable-update-2022-10-10-kernels-octopi-deepin-glibc-haskell-python-nvidia-520-56-06/123838",
+      "Title" : "[Stable Update] 2022-10-10 - Kernels, Octopi, Deepin, GlibC, Haskell, Python; Nvidia 520.56.06",
+      "Category" : "Stable Updates",
+      "PublishedDate" : "2022-10-10T12:19:46Z",
+      "PublishedDateUnix" : 1665404386,
+      "NotificationSent" : true
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+[Plugin-org.kde.ActivityManager.Resources.Scoring]
+off-the-record-activities=38752299-0771-4240-b24b-a75d96646052,29734d55-d43f-4b2a-94e4-f7a5f94bc84f,8d241afd-4479-4bec-979e-ccda069f78c7,2415f5bc-a9bf-4f40-9c71-ceb7aefaa865
+
+[Plugin-org.kde.ActivityManager.VirtualDesktopSwitch]
+desktop-for-2415f5bc-a9bf-4f40-9c71-ceb7aefaa865=1
+desktop-for-29734d55-d43f-4b2a-94e4-f7a5f94bc84f=1
+desktop-for-31edcf33-67f7-4785-aacf-d546ba910d23=1
+desktop-for-38752299-0771-4240-b24b-a75d96646052=1
+desktop-for-8d241afd-4479-4bec-979e-ccda069f78c7=1

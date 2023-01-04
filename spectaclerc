@@ -1,0 +1,15 @@
+[$Version]
+update_info=spectacle_clipboard.upd:clipboard-settings-change,spectacle_rememberregion.upd:spectacle-migrate-rememberregion
+
+[General]
+autoSaveImage=true
+clipboardGroup=PostScreenshotCopyImage
+onLaunchAction=UseLastUsedCapturemode
+
+[GuiConfig]
+captureMode=5
+window-position=34,32
+
+[Save]
+defaultSaveLocation=file:///home/prado/Pictures/Screenshots
+lastSaveLocation=file:///home/prado/Pictures/Screenshots/Screenshot_20221221_113239.png

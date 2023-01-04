@@ -1,0 +1,2 @@
+[TimerPresets]
+timerPresets=[{"presetDuration":3600,"presetName":"Período de uma Hora"},{"presetDuration":3600,"presetName":"Timer"},{"presetDuration":5400,"presetName":"Tempo de Estudo Padrão"}]

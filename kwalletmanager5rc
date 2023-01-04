@@ -1,0 +1,10 @@
+[MainWindow]
+eDP-1=eDP-1
+eDP-1 Height 1366x768 eDP-1=512
+eDP-1 Width 1366x768 eDP-1=533
+eDP-1 XPosition 1366x768 eDP-1=416
+eDP-1 YPosition 1366x768 eDP-1=158
+
+[WalletEditor]
+AlwaysShowContents=false
+SplitterSize=214,290

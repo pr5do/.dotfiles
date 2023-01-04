@@ -1,0 +1,2 @@
+[Timers]
+timersList=[{"commandTimeout":"","label":"Tempo de Estudo Padrão","length":5400,"looping":false,"uuid":"{7d0337e6-9e81-4903-8847-64ca28d011ff}"},{"commandTimeout":"","label":"Período de uma Hora","length":3600,"looping":false,"uuid":"{ddab41b4-eead-438a-882e-53dd6328f6da}"}]

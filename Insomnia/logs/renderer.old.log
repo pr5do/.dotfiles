@@ -1,0 +1,7 @@
+[2022-12-19 21:54:23.837] [info]  [db] Initialized DB client
+[2022-12-19 21:54:23.969] [warn]  The vm module of Node.js is deprecated in the renderer process and will be removed.
+[2022-12-19 21:54:23.976] [warn]  The vm module of Node.js is deprecated in the renderer process and will be removed.
+[2022-12-19 21:54:24.299] [warn]  The vm module of Node.js is deprecated in the renderer process and will be removed.
+[2022-12-19 21:54:24.541] [info]  [FileSystemDriver] Initialized in "/home/prado/.config/Insomnia/version-control"
+[2022-12-19 21:54:24.542] [info]  [sync] checking for collections which need to be moved into a remote project
+[2022-12-19 21:54:24.544] [info]  [FileSystemDriver] Initialized in "/home/prado/.config/Insomnia/version-control"

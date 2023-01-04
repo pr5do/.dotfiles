@@ -1,0 +1,7 @@
+2022-12-21 17:40:56.358 [error] Extension 'tabnine.tabnine-vscode' wants API proposal 'inlineCompletions' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2022-12-21 17:40:56.367 [info] Placing extension(s) asvetliakov.vscode-neovim on a separate extension host.
+2022-12-21 17:40:56.367 [info] Ignoring configured affinity for 'asvetliakov.vscode-neovim' because the extension is unknown or cannot execute for extension host kind: LocalWebWorker.
+2022-12-21 17:40:56.809 [info] Ignoring configured affinity for 'asvetliakov.vscode-neovim' because the extension is unknown or cannot execute for extension host kind: LocalWebWorker.
+2022-12-21 17:40:57.324 [info] Ignoring configured affinity for 'asvetliakov.vscode-neovim' because the extension is unknown or cannot execute for extension host kind: LocalWebWorker.
+2022-12-21 17:40:59.021 [info] [perf] Render performance baseline is 58ms
+2022-12-21 17:40:59.669 [error] [Extension Host] validating /home/prado/.config/Code/User/globalStorage/tabnine.tabnine-vscode/binaries/4.4.200/x86_64-unknown-linux-musl/TabNine timeout

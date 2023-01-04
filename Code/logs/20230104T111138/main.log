@@ -1,0 +1,21 @@
+2023-01-04 11:11:38.892 [info] update#setState idle
+2023-01-04 11:11:40.108 [info] Starting extension host with pid 7093 (fork() took 8 ms).
+2023-01-04 11:11:40.585 [info] Starting extension host with pid 7128 (fork() took 7 ms).
+2023-01-04 11:12:08.906 [info] update#setState checking for updates
+2023-01-04 11:12:09.125 [info] update#setState idle
+2023-01-04 12:12:08.914 [info] update#setState checking for updates
+2023-01-04 12:12:12.007 [info] update#setState idle
+2023-01-04 12:26:56.328 [info] Extension host with pid 7128 exited with code: 0, signal: null.
+2023-01-04 12:26:57.133 [info] Starting extension host with pid 16623 (fork() took 8 ms).
+2023-01-04 12:26:57.154 [info] Extension host with pid 7093 exited with code: 0, signal: null.
+2023-01-04 12:26:57.983 [info] Starting extension host with pid 16654 (fork() took 4 ms).
+2023-01-04 13:12:08.922 [info] update#setState checking for updates
+2023-01-04 13:12:09.738 [info] update#setState idle
+2023-01-04 14:12:08.936 [info] update#setState checking for updates
+2023-01-04 14:12:16.678 [info] update#setState idle
+2023-01-04 15:12:08.950 [info] update#setState checking for updates
+2023-01-04 15:12:10.033 [info] update#setState idle
+2023-01-04 15:24:51.742 [info] Starting extension host with pid 37729 (fork() took 8 ms).
+2023-01-04 15:24:52.261 [info] Starting extension host with pid 37761 (fork() took 5 ms).
+2023-01-04 15:24:56.122 [info] Extension host with pid 16654 exited with code: 0, signal: null.
+2023-01-04 15:24:56.880 [info] Extension host with pid 16623 exited with code: 0, signal: null.

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=/home/prado/.config/autostart/protonvpn.sh
+Icon=dialog-scripts
+Name=protonvpn.sh
+Path=
+Type=Application
+X-KDE-AutostartScript=true

@@ -1,0 +1,12 @@
+2023-01-03 12:35:50.252 [info] update#setState idle
+2023-01-03 12:35:51.383 [info] Starting extension host with pid 39054 (fork() took 10 ms).
+2023-01-03 12:35:52.062 [info] Starting extension host with pid 39089 (fork() took 8 ms).
+2023-01-03 12:36:20.258 [info] update#setState checking for updates
+2023-01-03 12:36:20.835 [info] update#setState idle
+2023-01-03 13:36:20.289 [info] update#setState checking for updates
+2023-01-03 13:36:23.402 [info] update#setState idle
+2023-01-03 14:36:20.320 [info] update#setState checking for updates
+2023-01-03 14:36:21.040 [info] update#setState idle
+2023-01-03 15:26:44.977 [info] Extension host with pid 39089 exited with code: 0, signal: null.
+2023-01-03 15:26:45.026 [info] Waiting for extension host with pid 39054 to exit.
+2023-01-03 15:26:45.916 [info] Extension host with pid 39054 exited with code: 0, signal: null.

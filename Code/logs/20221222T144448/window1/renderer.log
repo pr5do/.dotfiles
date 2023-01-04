@@ -1,0 +1,6 @@
+2022-12-22 14:44:49.375 [error] Extension 'tabnine.tabnine-vscode' wants API proposal 'inlineCompletions' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2022-12-22 14:44:49.383 [info] Placing extension(s) asvetliakov.vscode-neovim on a separate extension host.
+2022-12-22 14:44:49.383 [info] Ignoring configured affinity for 'asvetliakov.vscode-neovim' because the extension is unknown or cannot execute for extension host kind: LocalWebWorker.
+2022-12-22 14:44:51.250 [info] Ignoring configured affinity for 'asvetliakov.vscode-neovim' because the extension is unknown or cannot execute for extension host kind: LocalWebWorker.
+2022-12-22 14:44:51.863 [info] Ignoring configured affinity for 'asvetliakov.vscode-neovim' because the extension is unknown or cannot execute for extension host kind: LocalWebWorker.
+2022-12-22 14:44:54.253 [info] [perf] Render performance baseline is 28ms

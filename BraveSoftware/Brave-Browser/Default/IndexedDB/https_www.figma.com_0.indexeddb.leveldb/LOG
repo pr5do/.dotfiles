@@ -1,0 +1,6 @@
+2023/01/04-15:32:02.167 8b3a Creating DB /home/prado/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.figma.com_0.indexeddb.leveldb since it was missing.
+2023/01/04-15:32:02.177 8b3a Reusing MANIFEST /home/prado/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.figma.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/01/04-15:32:16.058 98e7 Level-0 table #5: started
+2023/01/04-15:32:16.063 98e7 Level-0 table #5: 2140 bytes OK
+2023/01/04-15:32:16.068 98e7 Delete type=0 #3
+2023/01/04-15:32:16.069 98e7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,12 @@
+[Applications][firefox]
+Seen=true
+
+[Applications][org.manjaro.pamac.manager]
+Seen=true
+
+[Applications][org.moson.matray]
+Seen=true
+
+[Notifications]
+NormalAlwaysOnTop=true
+PopupPosition=BottomRight

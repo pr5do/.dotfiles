@@ -1,0 +1,8 @@
+[FileDialogSize]
+eDP-1 Height 1366x768 eDP-1=512
+eDP-1 Width 1366x768 eDP-1=836
+
+[KFileDialog Settings]
+Recent Files[$e]=bookmarks.html,file:$HOME/bookmarks.html
+Recent URLs[$e]=file:$HOME/
+detailViewIconSize=16

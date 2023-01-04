@@ -1,0 +1,17 @@
+2023-01-03 12:30:41.692 [info] Starting worker process with pid 36567 (type: fileWatcher, window: 1).
+2023-01-03 12:30:49.779 [info] Getting Manifest... pkief.material-icon-theme
+2023-01-03 12:30:49.780 [info] Getting Manifest... tabnine.tabnine-vscode
+2023-01-03 12:30:50.735 [info] Installing extension: pkief.material-icon-theme
+2023-01-03 12:30:57.408 [info] Installing extension: tabnine.tabnine-vscode
+2023-01-03 12:31:00.968 [info] Worker process with pid 36567 terminated normally (type: fileWatcher, window: 1).
+2023-01-03 12:31:01.926 [info] Starting worker process with pid 37428 (type: fileWatcher, window: 1).
+2023-01-03 12:31:04.762 [info] Extracted extension to /home/prado/.vscode/extensions/.932d997e-a6b8-4c92-8faf-0cdbecf5a152: pkief.material-icon-theme
+2023-01-03 12:31:04.767 [info] Renamed to /home/prado/.vscode/extensions/pkief.material-icon-theme-4.23.1
+2023-01-03 12:31:04.769 [info] Extracting completed. pkief.material-icon-theme
+2023-01-03 12:31:04.778 [info] Extension installed successfully: pkief.material-icon-theme
+2023-01-03 12:31:04.804 [info] Marked extension as uninstalled pkief.material-icon-theme-4.23.0
+2023-01-03 12:31:08.293 [info] Extracted extension to /home/prado/.vscode/extensions/.513af1bc-08de-41c5-9ac6-15ce7bd8bd33: tabnine.tabnine-vscode
+2023-01-03 12:31:08.297 [info] Renamed to /home/prado/.vscode/extensions/tabnine.tabnine-vscode-3.6.32
+2023-01-03 12:31:08.298 [info] Extracting completed. tabnine.tabnine-vscode
+2023-01-03 12:31:08.305 [info] Extension installed successfully: tabnine.tabnine-vscode
+2023-01-03 12:31:08.336 [info] Marked extension as uninstalled tabnine.tabnine-vscode-3.6.31

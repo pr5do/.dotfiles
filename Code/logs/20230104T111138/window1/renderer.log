@@ -1,0 +1,14 @@
+2023-01-04 11:11:40.143 [error] Extension 'tabnine.tabnine-vscode' wants API proposal 'inlineCompletions' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-01-04 11:11:40.151 [info] Placing extension(s) asvetliakov.vscode-neovim on a separate extension host.
+2023-01-04 11:11:40.152 [info] Ignoring configured affinity for 'asvetliakov.vscode-neovim' because the extension is unknown or cannot execute for extension host kind: LocalWebWorker.
+2023-01-04 11:11:40.958 [info] Ignoring configured affinity for 'asvetliakov.vscode-neovim' because the extension is unknown or cannot execute for extension host kind: LocalWebWorker.
+2023-01-04 11:11:40.991 [info] Ignoring configured affinity for 'asvetliakov.vscode-neovim' because the extension is unknown or cannot execute for extension host kind: LocalWebWorker.
+2023-01-04 11:11:42.807 [info] [perf] Render performance baseline is 37ms
+2023-01-04 12:26:51.957 [info] Ignoring configured affinity for 'asvetliakov.vscode-neovim' because the extension is unknown or cannot execute for extension host kind: LocalWebWorker.
+2023-01-04 12:26:57.533 [error] Extension 'tabnine.tabnine-vscode' wants API proposal 'inlineCompletions' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-01-04 12:26:57.548 [info] Placing extension(s) asvetliakov.vscode-neovim on a separate extension host.
+2023-01-04 12:26:57.549 [info] Ignoring configured affinity for 'asvetliakov.vscode-neovim' because the extension is unknown or cannot execute for extension host kind: LocalWebWorker.
+2023-01-04 12:26:57.747 [info] Ignoring configured affinity for 'asvetliakov.vscode-neovim' because the extension is unknown or cannot execute for extension host kind: LocalWebWorker.
+2023-01-04 12:26:58.511 [info] Ignoring configured affinity for 'asvetliakov.vscode-neovim' because the extension is unknown or cannot execute for extension host kind: LocalWebWorker.
+2023-01-04 12:27:00.373 [info] [perf] Render performance baseline is 33ms
+2023-01-04 14:47:24.727 [error] RequestService#request (browser) - error https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery {"name":"Canceled"}

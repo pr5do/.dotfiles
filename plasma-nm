@@ -1,0 +1,5 @@
+[General]
+HotspotName=prado-hotspot
+HotspotPassword=
+ManageVirtualConnections=false
+UnlockModemOnDetection=true

@@ -1,0 +1,13 @@
+[General]
+Default Identity=1013153792
+
+[Identity #0]
+Default Domain=guga-manjaro
+Disable Fcc=false
+Identity=Gustavo Prado
+Image Location=
+Inline Signature=
+Name=Gustavo Prado
+Override Encryption Defaults=false
+Signature Enabled=false
+uoid=1013153792

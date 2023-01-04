@@ -1,0 +1,32 @@
+2022-12-22 14:53:49.511 [info] Extension host with pid 122097 started
+2022-12-22 14:53:49.619 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2022-12-22 14:53:49.620 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2022-12-22 14:53:49.620 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+2022-12-22 14:53:49.621 [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: true, activationEvent: '*'
+2022-12-22 14:53:49.621 [info] ExtensionService#_doActivateExtension TabNine.tabnine-vscode, startup: true, activationEvent: '*'
+2022-12-22 14:53:49.754 [info] Extension host with pid 122130 started
+2022-12-22 14:53:49.820 [info] ExtensionService#_doActivateExtension asvetliakov.vscode-neovim, startup: true, activationEvent: '*'
+2022-12-22 14:53:49.826 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2022-12-22 14:53:49.827 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2022-12-22 14:53:49.913 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2022-12-22 14:53:49.913 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2022-12-22 14:53:49.914 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2022-12-22 14:53:49.914 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onLanguage:jsonc'
+2022-12-22 14:53:49.914 [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker, startup: false, activationEvent: 'onLanguage:jsonc'
+2022-12-22 14:53:49.975 [info] Eager extensions activated
+2022-12-22 14:53:50.169 [info] Eager extensions activated
+2022-12-22 14:53:50.263 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2022-12-22 14:53:50.263 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2022-12-22 14:53:50.263 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2022-12-22 14:53:50.263 [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+2022-12-22 14:53:50.264 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onStartupFinished', root cause: esbenp.prettier-vscode
+2022-12-22 14:53:50.264 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2022-12-22 14:53:50.264 [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+2022-12-22 14:53:50.442 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2022-12-22 14:53:50.601 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2022-12-22 14:53:50.628 [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker-portuguese, startup: false, activationEvent: 'onStartupFinished'
+2022-12-22 14:53:50.628 [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker-portuguese-brazilian, startup: false, activationEvent: 'onStartupFinished'
+2022-12-22 14:54:48.015 [info] Extension host terminating: received terminate message from renderer
+2022-12-22 14:54:48.017 [info] Extension host with pid 122130 exiting with code 0
+2022-12-22 14:54:48.020 [info] Extension host terminating: received terminate message from renderer
+2022-12-22 14:54:48.237 [info] Extension host with pid 122097 exiting with code 0

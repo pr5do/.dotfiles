@@ -1,0 +1,9 @@
+[$Version]
+update_info=kscreenlocker.upd:0.1-autolock
+
+[Greeter][LnF][General]
+showMediaControls=false
+
+[Greeter][Wallpaper][org.kde.image][General]
+Image=/home/prado/Downloads/wp5561834-mac-os-4k-wallpapers.jpg
+PreviewImage=/home/prado/Downloads/wp5561834-mac-os-4k-wallpapers.jpg
