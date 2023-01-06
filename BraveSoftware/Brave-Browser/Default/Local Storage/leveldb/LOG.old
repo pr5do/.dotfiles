@@ -1,3 +1,15 @@
-2023/01/04-11:11:24.890 3 Reusing MANIFEST /home/prado/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
-2023/01/04-11:11:24.892 3 Recovering log #11
-2023/01/04-11:11:24.892 3 Reusing old log /home/prado/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000011.log 
+2023/01/05-20:56:25.864 3 Reusing MANIFEST /home/prado/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2023/01/05-20:56:25.865 3 Recovering log #47
+2023/01/05-20:56:25.866 3 Reusing old log /home/prado/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000047.log 
+2023/01/05-21:02:26.711 3 Level-0 table #51: started
+2023/01/05-21:02:26.719 3 Level-0 table #51: 16568 bytes OK
+2023/01/05-21:02:26.727 3 Delete type=0 #47
+2023/01/05-21:02:26.729 3 Compacting 4@0 + 1@1 files
+2023/01/05-21:02:26.773 3 Generated table #52@0: 282 keys, 803543 bytes
+2023/01/05-21:02:26.773 3 Compacted 4@0 + 1@1 files => 803543 bytes
+2023/01/05-21:02:26.781 3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/01/05-21:02:26.782 3 Delete type=2 #51
+2023/01/05-21:02:26.782 3 Delete type=2 #43
+2023/01/05-21:02:26.782 3 Delete type=2 #40
+2023/01/05-21:02:26.782 3 Delete type=2 #48
+2023/01/05-21:02:26.782 3 Delete type=2 #46

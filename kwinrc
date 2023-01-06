@@ -13,6 +13,9 @@ Id_4=7e37745f-7b36-44b6-9469-c41eab786b3d
 Number=4
 Rows=2
 
+[Effect-blur]
+BlurStrength=11
+
 [Effect-wobblywindows]
 Drag=92
 MoveFactor=20
@@ -37,6 +40,9 @@ kwin4_effect_squashEnabled=false
 lattewindowcolorsEnabled=true
 macsimizeEnabled=false
 slidebackEnabled=true
+
+[Script-forceblur]
+patterns=yakuake\nurxvt\nkeepassxc\nalacritty\ncode\ndolphin
 
 [Windows]
 BorderlessMaximizedWindows=true

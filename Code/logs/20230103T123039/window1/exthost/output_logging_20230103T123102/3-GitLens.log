@@ -1,4 +1,0 @@
-[2023-01-03 15:31:03.285] [GIT  ] [/home/prado/Desktop/dev/General/Courses/CS50-Web-Programming] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 6 ms
-
-[2023-01-03 15:31:14.506] [GIT  ] [/home/prado/Desktop/dev/General/Courses/CS50-Web-Programming/Week-1] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 34 ms
-

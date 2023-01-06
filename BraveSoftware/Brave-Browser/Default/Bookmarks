@@ -13,7 +13,7 @@
          }, {
             "children": [ {
                "date_added": "13313794013000000",
-               "date_last_used": "13316282888223584",
+               "date_last_used": "13317416254065645",
                "guid": "6210f36a-ce0a-49e5-bf5d-31b2546b4e12",
                "id": "27",
                "name": "Course | CS50's Web Programming with Python and JavaScript | edX",
@@ -104,7 +104,7 @@
                   "type": "folder"
                }, {
                   "date_added": "13315627930000000",
-                  "date_last_used": "13317316377879029",
+                  "date_last_used": "13317416517204922",
                   "guid": "6178ad54-a496-4bcb-91d0-52bad606bd63",
                   "id": "50",
                   "name": "(New) Responsive Web Design Certification | freeCodeCamp.org",
@@ -112,7 +112,7 @@
                   "url": "https://www.freecodecamp.org/learn/2022/responsive-web-design/"
                }, {
                   "date_added": "13315682098000000",
-                  "date_last_used": "0",
+                  "date_last_used": "13317416514364647",
                   "guid": "fcb65600-7a93-486d-b687-537ed4d5ffbf",
                   "id": "51",
                   "name": "100 Days CSS Challenge",
@@ -120,7 +120,7 @@
                   "url": "https://100dayscss.com/"
                }, {
                   "date_added": "13315681968000000",
-                  "date_last_used": "0",
+                  "date_last_used": "13317416468692319",
                   "guid": "e08a16c7-f229-404c-98ff-16a6130f5ab5",
                   "id": "52",
                   "name": "Frontend Mentor | Challenges",

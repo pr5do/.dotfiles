@@ -1,3 +1,21 @@
-2023/01/04-11:11:35.701 19e1 Reusing MANIFEST /home/prado/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/01/04-11:11:35.701 19e1 Recovering log #62
-2023/01/04-11:11:35.704 19e1 Reusing old log /home/prado/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000062.log 
+2023/01/05-20:56:26.816 43ce5 Reusing MANIFEST /home/prado/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/01/05-20:56:26.816 43ce5 Recovering log #178
+2023/01/05-20:56:26.836 43ce5 Reusing old log /home/prado/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000178.log 
+2023/01/05-20:56:30.248 43d01 Level-0 table #183: started
+2023/01/05-20:56:30.262 43d01 Level-0 table #183: 1175971 bytes OK
+2023/01/05-20:56:30.270 43d01 Delete type=0 #178
+2023/01/05-20:56:30.972 43d01 Compacting 1@1 + 1@2 files
+2023/01/05-20:56:30.980 43d01 Generated table #184@1: 656 keys, 62760 bytes
+2023/01/05-20:56:30.980 43d01 Compacted 1@1 + 1@2 files => 62760 bytes
+2023/01/05-20:56:30.984 43d01 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/01/05-20:56:30.985 43d01 Delete type=2 #183
+2023/01/05-20:56:30.985 43d01 Delete type=2 #180
+2023/01/05-20:57:58.896 43ed1 Level-0 table #186: started
+2023/01/05-20:57:58.909 43ed1 Level-0 table #186: 1043261 bytes OK
+2023/01/05-20:57:58.917 43ed1 Delete type=0 #182
+2023/01/05-20:58:24.974 43cd6 Compacting 1@1 + 1@2 files
+2023/01/05-20:58:24.989 43cd6 Generated table #187@1: 706 keys, 41458 bytes
+2023/01/05-20:58:24.990 43cd6 Compacted 1@1 + 1@2 files => 41458 bytes
+2023/01/05-20:58:24.997 43cd6 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/01/05-20:58:24.998 43cd6 Delete type=2 #186
+2023/01/05-20:58:24.998 43cd6 Delete type=2 #184

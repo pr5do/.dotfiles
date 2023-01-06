@@ -1,15 +1,15 @@
 [KFileDialog Settings]
-Recent Files[$e]=wp5561834-mac-os-4k-wallpapers.jpg,file:$HOME/.config/autostart/protonvpn.sh,file:$HOME/Downloads/icons8-hand-tools-100.png,file:$HOME/Downloads/study.png,file:$HOME/Downloads/checklist.png,file:$HOME/Downloads/music.png,file:$HOME/Downloads/code.png,file:$HOME/Pictures/Images/generative-art-dark.jpg
+Recent Files[$e]=wp5561834-mac-os-4k-wallpapers.jpg,file:$HOME/.config/autostart/pulseaudio.sh,file:$HOME/.config/autostart/protonvpn.sh,file:$HOME/Downloads/icons8-hand-tools-100.png,file:$HOME/Downloads/study.png,file:$HOME/Downloads/checklist.png,file:$HOME/Downloads/music.png,file:$HOME/Downloads/code.png,file:$HOME/Pictures/Images/generative-art-dark.jpg
 Recent URLs[$e]=file:$HOME/Downloads/,file:$HOME/,file:$HOME/Pictures/Images/,file:$HOME/.config/autostart/,file:$HOME/Documents/,file:$HOME/.config/
 detailViewIconSize=16
 
 [KPropertiesDialog]
-eDP-1 Height 1366x768 eDP-1=577
+eDP-1 Height 1366x768 eDP-1=624
 eDP-1 Width 1366x768 eDP-1=475
 
 [MainWindow]
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAABKUAAAKWAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAABVYAAALgAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 eDP-1=eDP-1
 eDP-1 Height 1366x768=652
@@ -17,6 +17,7 @@ eDP-1 Height 1366x768 eDP-1=662
 eDP-1 Width 1366x768=1612
 eDP-1 Width 1366x768 eDP-1=1189
 eDP-1 Window-Maximized 1366x768=true
+eDP-1 Window-Maximized 1366x768 eDP-1=true
 eDP-1 XPosition 1366x768=228
 eDP-1 XPosition 1366x768 eDP-1=88
 eDP-1 YPosition 1366x768=72

@@ -741,6 +741,8 @@
   "editor.minimap.enabled": false,
   "sync.removeExtensions": false,
   "workbench.colorTheme": "Dracula",
-  "workbench.activityBar.visible": false,
   "window.zoomLevel": 1,
+  "git.confirmSync": false,
+  "workbench.activityBar.visible": false,
+  "diffEditor.ignoreTrimWhitespace": false,
 }

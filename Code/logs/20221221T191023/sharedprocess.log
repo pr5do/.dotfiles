@@ -1,8 +1,0 @@
-2022-12-21 19:10:26.152 [info] Starting worker process with pid 5388 (type: fileWatcher, window: 1).
-2022-12-21 19:10:31.054 [info] Getting Manifest... eamodio.gitlens
-2022-12-21 19:10:31.347 [info] Installing extension: eamodio.gitlens
-2022-12-21 19:10:35.503 [info] Extracted extension to /home/prado/.vscode/extensions/.1a7749df-6f70-40b9-b565-3c3a945202f4: eamodio.gitlens
-2022-12-21 19:10:35.515 [info] Renamed to /home/prado/.vscode/extensions/eamodio.gitlens-13.2.0
-2022-12-21 19:10:35.521 [info] Extracting completed. eamodio.gitlens
-2022-12-21 19:10:35.536 [info] Extension installed successfully: eamodio.gitlens
-2022-12-21 19:10:35.573 [info] Marked extension as uninstalled eamodio.gitlens-13.1.1

@@ -4,10 +4,7 @@
         "workspaces": [],
         "folders": [
             {
-                "folderUri": "file:///home/prado/Desktop/dev/General/Courses/CS50-Web-Programming"
-            },
-            {
-                "folderUri": "file:///home/prado/Desktop/dev/General/Courses/CS50-Web-Programming/Week-1"
+                "folderUri": "file:///home/prado/Desktop/dev/General/Courses/CS50-Web-Programming/Week-2"
             }
         ],
         "emptyWindows": []
@@ -50,11 +47,21 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor",
-                                    "enabled": false
+                                    "label": "&&Reopen Closed Editor"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/prado/Desktop/dev/General/Courses/CS50-Web-Programming/Week-2",
+                                        "path": "/home/prado/Desktop/dev/General/Courses/CS50-Web-Programming/Week-2",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Desktop/dev/General/Courses/CS50-Web-Programming/Week-2"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -77,6 +84,20 @@
                                     },
                                     "enabled": true,
                                     "label": "~/Desktop/dev/General/Courses/CS50-Web-Programming"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/prado/Desktop/dev/General/Courses/CS50-Web-Programming/Week-2/test.py",
+                                        "path": "/home/prado/Desktop/dev/General/Courses/CS50-Web-Programming/Week-2/test.py",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Desktop/dev/General/Courses/CS50-Web-Programming/Week-2/test.py"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -635,6 +656,10 @@
                         "label": "E&&xtensions"
                     },
                     {
+                        "id": "workbench.view.extension.test",
+                        "label": "T&&esting"
+                    },
+                    {
                         "id": "vscode.menubar.separator"
                     },
                     {
@@ -680,7 +705,8 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location"
+                        "label": "&&Last Edit Location",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1570,14 +1596,14 @@
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/prado/Desktop/dev/General/Courses/CS50-Web-Programming/Week-1",
-            "backupPath": "/home/prado/.config/Code/Backups/4631c6c8736a6e2c46145a15f0abedff",
+            "folder": "file:///home/prado/Desktop/dev/General/Courses/CS50-Web-Programming/Week-2",
+            "backupPath": "/home/prado/.config/Code/Backups/71d09f9645ff20c6e780ccfad0f86eeb",
             "uiState": {
                 "mode": 0,
-                "x": 175,
-                "y": 66,
+                "x": 182,
+                "y": 164,
                 "width": 1024,
-                "height": 696
+                "height": 450
             }
         },
         "openedWindows": []

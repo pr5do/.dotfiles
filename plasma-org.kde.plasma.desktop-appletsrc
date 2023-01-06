@@ -29,7 +29,7 @@ ToolBoxButtonState=bottom
 ToolBoxButtonX=565
 ToolBoxButtonY=738
 iconSize=2
-positions={"1366x768":["1"\\,"14"\\,"desktop:/personal"\\,"0"\\,"0"\\,"desktop:/dev"\\,"0"\\,"1"]}
+positions={"1366x768":["1"\\,"14"\\,"desktop:/dev"\\,"0"\\,"1"\\,"desktop:/personal"\\,"0"\\,"0"]}
 sortMode=-1
 
 [Containments][1][Wallpaper][org.kde.image][General]
@@ -129,7 +129,7 @@ immutability=1
 plugin=org.kde.plasma.systemtray
 
 [Containments][2][Applets][6][Configuration]
-PreloadWeight=95
+PreloadWeight=100
 SystrayContainmentId=7
 immutability=1
 
@@ -318,4 +318,4 @@ knownItems=org.kde.plasma.battery,org.kde.kdeconnect,org.kde.plasma.keyboardindi
 
 [ScreenMapping]
 itemsOnDisabledScreens=
-screenMapping=desktop:/dev,0,31edcf33-67f7-4785-aacf-d546ba910d23,desktop:/dev,0,8d241afd-4479-4bec-979e-ccda069f78c7,desktop:/dev,0,2415f5bc-a9bf-4f40-9c71-ceb7aefaa865,desktop:/personal,0,8d241afd-4479-4bec-979e-ccda069f78c7,desktop:/personal,0,38752299-0771-4240-b24b-a75d96646052,desktop:/dev,0,38752299-0771-4240-b24b-a75d96646052,desktop:/personal,0,2415f5bc-a9bf-4f40-9c71-ceb7aefaa865,desktop:/personal,0,29734d55-d43f-4b2a-94e4-f7a5f94bc84f,desktop:/personal,0,31edcf33-67f7-4785-aacf-d546ba910d23,desktop:/dev,0,29734d55-d43f-4b2a-94e4-f7a5f94bc84f
+screenMapping=desktop:/personal,0,29734d55-d43f-4b2a-94e4-f7a5f94bc84f,desktop:/dev,0,2415f5bc-a9bf-4f40-9c71-ceb7aefaa865,desktop:/dev,0,8d241afd-4479-4bec-979e-ccda069f78c7,desktop:/dev,0,31edcf33-67f7-4785-aacf-d546ba910d23,desktop:/dev,0,38752299-0771-4240-b24b-a75d96646052,desktop:/personal,0,31edcf33-67f7-4785-aacf-d546ba910d23,desktop:/personal,0,2415f5bc-a9bf-4f40-9c71-ceb7aefaa865,desktop:/personal,0,38752299-0771-4240-b24b-a75d96646052,desktop:/personal,0,8d241afd-4479-4bec-979e-ccda069f78c7,desktop:/dev,0,29734d55-d43f-4b2a-94e4-f7a5f94bc84f

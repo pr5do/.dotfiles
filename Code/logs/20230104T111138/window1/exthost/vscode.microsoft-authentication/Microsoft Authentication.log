@@ -1,8 +1,0 @@
-2023-01-04 11:11:41.733 [info] Reading sessions from secret storage...
-2023-01-04 11:11:41.733 [info] Got 0 stored sessions
-2023-01-04 11:11:41.766 [info] Getting sessions for the following scopes: email offline_access openid profile
-2023-01-04 11:11:41.767 [info] Got 0 sessions for scopes: email offline_access openid profile
-2023-01-04 12:26:59.192 [info] Reading sessions from secret storage...
-2023-01-04 12:26:59.192 [info] Got 0 stored sessions
-2023-01-04 12:26:59.283 [info] Getting sessions for the following scopes: email offline_access openid profile
-2023-01-04 12:26:59.283 [info] Got 0 sessions for scopes: email offline_access openid profile

@@ -1,3 +1,7 @@
-2023/01/04-12:49:01.539 4983 Reusing MANIFEST /home/prado/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/01/04-12:49:01.540 4983 Recovering log #3
-2023/01/04-12:49:01.540 4983 Reusing old log /home/prado/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/000003.log 
+2023/01/05-18:02:17.254 179b4 Reusing MANIFEST /home/prado/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/01/05-18:02:17.255 179b4 Recovering log #3
+2023/01/05-18:02:17.255 179b4 Reusing old log /home/prado/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/000003.log 
+2023/01/05-18:03:28.573 179b4 Level-0 table #5: started
+2023/01/05-18:03:28.577 179b4 Level-0 table #5: 3781 bytes OK
+2023/01/05-18:03:28.582 179b4 Delete type=0 #3
+2023/01/05-18:03:28.583 179b4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

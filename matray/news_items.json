@@ -54,15 +54,6 @@
       "PublishedDate" : "2022-11-02T08:51:08Z",
       "PublishedDateUnix" : 1667379068,
       "NotificationSent" : true
-    },
-    {
-      "GUID" : "forum.manjaro.org-topic-123838",
-      "URL" : "https://forum.manjaro.org/t/stable-update-2022-10-10-kernels-octopi-deepin-glibc-haskell-python-nvidia-520-56-06/123838",
-      "Title" : "[Stable Update] 2022-10-10 - Kernels, Octopi, Deepin, GlibC, Haskell, Python; Nvidia 520.56.06",
-      "Category" : "Stable Updates",
-      "PublishedDate" : "2022-10-10T12:19:46Z",
-      "PublishedDateUnix" : 1665404386,
-      "NotificationSent" : true
     }
   ]
 }

@@ -2,11 +2,11 @@
 update_info=kwinrules.upd:replace-placement-string-to-enum,kwinrules.upd:use-virtual-desktop-ids
 
 [1]
-Description=Application settings for alacritty
+Description=Application settings for code
 clientmachine=localhost
-opacityactive=80
+opacityactive=75
 opacityactiverule=2
-wmclass=alacritty
+wmclass=code
 wmclassmatch=1
 
 [1820679b-82aa-439c-82da-be75ab1ac96e]
@@ -18,14 +18,46 @@ wmclass=alacritty
 wmclassmatch=1
 
 [2]
-Description=Application settings for emacs
+Description=Application settings for keepassxc
 clientmachine=localhost
-opacityactive=90
+opacityactive=70
 opacityactiverule=2
-wmclass=emacs
+wmclass=keepassxc
+wmclassmatch=1
+
+[298f9316-b6c2-404b-b748-3cd9902e884c]
+Description=Application settings for keepassxc
+clientmachine=localhost
+opacityactive=85
+opacityactiverule=2
+wmclass=keepassxc
 wmclassmatch=1
 
 [3]
+Description=Application settings for kitty
+clientmachine=localhost
+opacityactive=90
+opacityactiverule=2
+wmclass=kitty
+wmclassmatch=1
+
+[39587cc8-bf82-4ab9-8ea5-1bba4842170b]
+Description=Application settings for code
+clientmachine=localhost
+opacityactive=70
+opacityactiverule=2
+wmclass=code
+wmclassmatch=1
+
+[4]
+Description=Application settings for alacritty
+clientmachine=localhost
+opacityactive=65
+opacityactiverule=2
+wmclass=alacritty
+wmclassmatch=1
+
+[5]
 Description=Application settings for emacs
 clientmachine=localhost
 opacityactive=90
@@ -42,8 +74,8 @@ wmclass=alacritty
 wmclassmatch=1
 
 [General]
-count=2
-rules=1,2
+count=5
+rules=1,2,3,4,5
 
 [b5c9207a-c730-4ff8-905b-c491ec1b6571]
 Description=Application settings for emacs
@@ -51,6 +83,14 @@ clientmachine=localhost
 opacityactive=85
 opacityactiverule=2
 wmclass=emacs
+wmclassmatch=1
+
+[d91a1854-9fdc-4eb4-865a-e7514d2826b8]
+Description=Application settings for kitty
+clientmachine=localhost
+opacityactive=90
+opacityactiverule=2
+wmclass=kitty
 wmclassmatch=1
 
 [e57df64d-b821-4e79-bf9b-ee03a17ec70a]

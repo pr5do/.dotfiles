@@ -824,31 +824,39 @@ font:
     style: Italic
 
 colors:
-  name: Atelierheath (dark)
-  author: Chris Kempson
+  # Default colors
   primary:
-    background: "#1b181b"
-    foreground: "#ab9bab"
-  cursor:
-    text: "#1b181b"
-    cursor: "#ab9bab"
-  normal:
-    black: "#1b181b"
-    red: "#ca402b"
-    green: "#379a37"
-    yellow: "#bb8a35"
-    blue: "#516aec"
-    magenta: "#7b59c0"
-    cyan: "#159393"
-    white: "#ab9bab"
-  bright:
-    black: "#776977"
-    red: "#ca402b"
-    green: "#379a37"
-    yellow: "#bb8a35"
-    blue: "#516aec"
-    magenta: "#7b59c0"
-    cyan: "#159393"
-    white: "#f7f3f7"
+    background: '#011627'
+    foreground: '#acb4c2'
 
-theme: Atelierheath.dark
+  cursor:
+    text: '#fafafa'
+    cursor: '#9ca1aa'
+
+  selection:
+    text: '#080808'
+    background: '#b2ceee'
+
+  # Normal colors
+  normal:
+    black: '#1d3b53'
+    red: '#fc514e'
+    green: '#a1cd5e'
+    yellow: '#e3d18a'
+    blue: '#82aaff'
+    magenta: '#c792ea'
+    cyan: '#7fdbca'
+    white: '#a1aab8'
+
+  # Bright colors
+  bright:
+    black: '#7c8f8f'
+    red: '#ff5874'
+    green: '#21c7a8'
+    yellow: '#ecc48d'
+    blue: '#82aaff'
+    magenta: '#ae81ff'
+    cyan: '#7fdbca'
+    white: '#d6deeb'
+
+theme: Nightfly

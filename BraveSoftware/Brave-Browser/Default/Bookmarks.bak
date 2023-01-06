@@ -1,5 +1,5 @@
 {
-   "checksum": "2b16949c056a171816fd4dae55bf0e3a",
+   "checksum": "2c81b90879c158ab18da5da1f0ff5fff",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -30,7 +30,7 @@
                   "url": "https://www.youtube.com/watch?v=HVsySz-h9r4&list=PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx"
                }, {
                   "date_added": "13315616248000000",
-                  "date_last_used": "0",
+                  "date_last_used": "13317330012984441",
                   "guid": "a1e509af-a1ab-44ec-a99c-95ac0dd25b06",
                   "id": "31",
                   "name": "(103) Git Tutorial For Dummies - YouTube",
@@ -38,7 +38,7 @@
                   "url": "https://www.youtube.com/watch?v=mJ-qvsxPHpY&t=443s"
                }, {
                   "date_added": "13315613562000000",
-                  "date_last_used": "0",
+                  "date_last_used": "13317330006654348",
                   "guid": "ba8e192f-8a51-488a-8ffe-c4b68958de44",
                   "id": "32",
                   "name": "Asabeneh/10-days-of-git-and-github",
@@ -46,7 +46,7 @@
                   "url": "https://github.com/Asabeneh/10-days-of-git-and-github"
                }, {
                   "date_added": "13316020182000000",
-                  "date_last_used": "0",
+                  "date_last_used": "13317330017109146",
                   "guid": "1a206a3e-58be-4870-b8e4-94050d018e41",
                   "id": "33",
                   "name": "Entendendo GIT | (não é um tutorial!) - YouTube",
@@ -59,6 +59,80 @@
                "guid": "4f92af38-7a6a-4e2e-8c9a-48db84992af3",
                "id": "29",
                "name": "Git",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "children": [ {
+                     "date_added": "13315771476000000",
+                     "date_last_used": "13317321113276553",
+                     "guid": "5fde60e0-5dcb-4751-bd65-20e4d98dd162",
+                     "id": "46",
+                     "name": "(17) Começa aqui o novo @CursoemVideo de HTML5 e CSS3 - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n"
+                  }, {
+                     "date_added": "13315771491000000",
+                     "date_last_used": "0",
+                     "guid": "74c9cf61-7189-432a-8e47-5278d4ed83b7",
+                     "id": "47",
+                     "name": "(17) O que vamos aprender no módulo 02? - @Curso em Vídeo HTML5 + CSS3 - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=vPNIAJ9B4hg&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s"
+                  }, {
+                     "date_added": "13315771495000000",
+                     "date_last_used": "0",
+                     "guid": "de8fe9a1-b44d-4a39-b11d-8a5abcf4ad43",
+                     "id": "48",
+                     "name": "(17) O que vamos aprender no módulo 3? - @Curso em Vídeo HTML5 + CSS3 - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=ofFgnDtn_1c&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ"
+                  }, {
+                     "date_added": "13315771498000000",
+                     "date_last_used": "0",
+                     "guid": "d8ce82b8-30aa-452e-93ab-97c197b02fa4",
+                     "id": "49",
+                     "name": "(17) O que vamos aprender no módulo 4? - @Curso em Vídeo HTML5 + CSS3 - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=zHKHMmEG9vE&list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT"
+                  } ],
+                  "date_added": "13316282811132687",
+                  "date_last_used": "0",
+                  "date_modified": "0",
+                  "guid": "05f19bde-e269-44a5-9b22-a49fd116bd30",
+                  "id": "45",
+                  "name": "Curso em Vídeo - HTML5 e CSS3",
+                  "type": "folder"
+               }, {
+                  "date_added": "13315627930000000",
+                  "date_last_used": "13317316377879029",
+                  "guid": "6178ad54-a496-4bcb-91d0-52bad606bd63",
+                  "id": "50",
+                  "name": "(New) Responsive Web Design Certification | freeCodeCamp.org",
+                  "type": "url",
+                  "url": "https://www.freecodecamp.org/learn/2022/responsive-web-design/"
+               }, {
+                  "date_added": "13315682098000000",
+                  "date_last_used": "0",
+                  "guid": "fcb65600-7a93-486d-b687-537ed4d5ffbf",
+                  "id": "51",
+                  "name": "100 Days CSS Challenge",
+                  "type": "url",
+                  "url": "https://100dayscss.com/"
+               }, {
+                  "date_added": "13315681968000000",
+                  "date_last_used": "0",
+                  "guid": "e08a16c7-f229-404c-98ff-16a6130f5ab5",
+                  "id": "52",
+                  "name": "Frontend Mentor | Challenges",
+                  "type": "url",
+                  "url": "https://www.frontendmentor.io/challenges"
+               } ],
+               "date_added": "13316282811132664",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "2f995997-bde7-4afe-9012-d043ce49bf55",
+               "id": "44",
+               "name": "HTML e CSS",
                "type": "folder"
             }, {
                "children": [ {
@@ -103,6 +177,70 @@
                "type": "folder"
             }, {
                "children": [ {
+                  "date_added": "13317330642234536",
+                  "date_last_used": "0",
+                  "guid": "009eec61-5f4f-480f-90ef-2d6d45f8dff9",
+                  "id": "103",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "(146) How to Design a Website – A UX Wireframe Tutorial - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=pN92rnO_n5U"
+               }, {
+                  "date_added": "13317330649966399",
+                  "date_last_used": "0",
+                  "guid": "8ba5f9e5-f6d5-4810-b47c-b89f7b4a4127",
+                  "id": "104",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "(146) UI / UX Design Tutorial – Wireframe, Mockup & Design in Figma - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=c9Wg6Cb_YlU"
+               }, {
+                  "date_added": "13317330655498325",
+                  "date_last_used": "0",
+                  "guid": "b27fe863-71c3-43b5-bb6c-cf79e4140073",
+                  "id": "105",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Web Design: The Complete guide to getting started in 2022 - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=j1pa36PK14E"
+               }, {
+                  "date_added": "13317330659369987",
+                  "date_last_used": "0",
+                  "guid": "0b5eccb3-8037-4e3d-9654-62710fc76540",
+                  "id": "106",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Figma tutorial for Beginners: Complete Website from Start to Finish - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=HZuk6Wkx_Eg"
+               }, {
+                  "date_added": "13317330666974588",
+                  "date_last_used": "0",
+                  "guid": "5d99d0e3-dffe-4be9-a42f-7140359386c1",
+                  "id": "107",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "(146) Designing a website - Episode 1: Planning & site map! - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=-Dwo-UOjDuw"
+               } ],
+               "date_added": "13317330535678266",
+               "date_last_used": "0",
+               "date_modified": "13317330726191054",
+               "guid": "869763a1-e62e-4248-9a30-67479940c595",
+               "id": "102",
+               "name": "Web Design",
+               "type": "folder"
+            }, {
+               "children": [ {
                   "date_added": "13315613319000000",
                   "date_last_used": "0",
                   "guid": "4a511cc5-74df-4617-a1b2-c02cb698ef9f",
@@ -134,87 +272,46 @@
                   "name": "Front End Development Libraries Certification | freeCodeCamp.org",
                   "type": "url",
                   "url": "https://www.freecodecamp.org/learn/front-end-development-libraries/#jquery"
+               }, {
+                  "date_added": "13317328735348941",
+                  "date_last_used": "0",
+                  "guid": "3b0401e7-7c04-459d-8d6d-5bc2819979c8",
+                  "id": "99",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "(146) React Course - Beginner's Tutorial for React JavaScript Library [2022] - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=bMknfKXIFA8"
+               }, {
+                  "date_added": "13317328751311685",
+                  "date_last_used": "0",
+                  "guid": "c181696f-6b11-48cd-bd66-8b01e99254a4",
+                  "id": "100",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Curso React: Introdução - #01 - 2021 - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=FXqX7oof0I4&list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO"
+               }, {
+                  "date_added": "13317329491714436",
+                  "date_last_used": "0",
+                  "guid": "4b6fe6a5-3baa-4e32-aae3-b14301d79297",
+                  "id": "101",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "(146) Curso Next.js: Introdução - #01 - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=XHrbg2iYNCg&list=PLnDvRpP8BnezfJcfiClWskFOLODeqI_Ft"
                } ],
                "date_added": "13316282811132384",
                "date_last_used": "0",
-               "date_modified": "0",
+               "date_modified": "13317329491714436",
                "guid": "b5e404c7-8cba-46ae-9f77-87bf77101a7b",
                "id": "39",
                "name": "React",
-               "type": "folder"
-            }, {
-               "children": [ {
-                  "children": [ {
-                     "date_added": "13315771476000000",
-                     "date_last_used": "0",
-                     "guid": "5fde60e0-5dcb-4751-bd65-20e4d98dd162",
-                     "id": "46",
-                     "name": "(17) Começa aqui o novo @CursoemVideo de HTML5 e CSS3 - YouTube",
-                     "type": "url",
-                     "url": "https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n"
-                  }, {
-                     "date_added": "13315771491000000",
-                     "date_last_used": "0",
-                     "guid": "74c9cf61-7189-432a-8e47-5278d4ed83b7",
-                     "id": "47",
-                     "name": "(17) O que vamos aprender no módulo 02? - @Curso em Vídeo HTML5 + CSS3 - YouTube",
-                     "type": "url",
-                     "url": "https://www.youtube.com/watch?v=vPNIAJ9B4hg&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s"
-                  }, {
-                     "date_added": "13315771495000000",
-                     "date_last_used": "0",
-                     "guid": "de8fe9a1-b44d-4a39-b11d-8a5abcf4ad43",
-                     "id": "48",
-                     "name": "(17) O que vamos aprender no módulo 3? - @Curso em Vídeo HTML5 + CSS3 - YouTube",
-                     "type": "url",
-                     "url": "https://www.youtube.com/watch?v=ofFgnDtn_1c&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ"
-                  }, {
-                     "date_added": "13315771498000000",
-                     "date_last_used": "0",
-                     "guid": "d8ce82b8-30aa-452e-93ab-97c197b02fa4",
-                     "id": "49",
-                     "name": "(17) O que vamos aprender no módulo 4? - @Curso em Vídeo HTML5 + CSS3 - YouTube",
-                     "type": "url",
-                     "url": "https://www.youtube.com/watch?v=zHKHMmEG9vE&list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT"
-                  } ],
-                  "date_added": "13316282811132687",
-                  "date_last_used": "0",
-                  "date_modified": "0",
-                  "guid": "05f19bde-e269-44a5-9b22-a49fd116bd30",
-                  "id": "45",
-                  "name": "Curso em Vídeo - HTML5 e CSS3",
-                  "type": "folder"
-               }, {
-                  "date_added": "13315627930000000",
-                  "date_last_used": "0",
-                  "guid": "6178ad54-a496-4bcb-91d0-52bad606bd63",
-                  "id": "50",
-                  "name": "(New) Responsive Web Design Certification | freeCodeCamp.org",
-                  "type": "url",
-                  "url": "https://www.freecodecamp.org/learn/2022/responsive-web-design/"
-               }, {
-                  "date_added": "13315682098000000",
-                  "date_last_used": "0",
-                  "guid": "fcb65600-7a93-486d-b687-537ed4d5ffbf",
-                  "id": "51",
-                  "name": "100 Days CSS Challenge",
-                  "type": "url",
-                  "url": "https://100dayscss.com/"
-               }, {
-                  "date_added": "13315681968000000",
-                  "date_last_used": "0",
-                  "guid": "e08a16c7-f229-404c-98ff-16a6130f5ab5",
-                  "id": "52",
-                  "name": "Frontend Mentor | Challenges",
-                  "type": "url",
-                  "url": "https://www.frontendmentor.io/challenges"
-               } ],
-               "date_added": "13316282811132664",
-               "date_last_used": "0",
-               "date_modified": "0",
-               "guid": "2f995997-bde7-4afe-9012-d043ce49bf55",
-               "id": "44",
-               "name": "HTML e CSS",
                "type": "folder"
             }, {
                "date_added": "13316105596000000",
@@ -227,7 +324,7 @@
             } ],
             "date_added": "13316282811131775",
             "date_last_used": "0",
-            "date_modified": "0",
+            "date_modified": "13317330642234536",
             "guid": "5753d449-3aad-4e25-a2fb-aaaccaceab67",
             "id": "26",
             "name": "Web Development",
@@ -534,10 +631,21 @@
             "id": "61",
             "name": "Hacking",
             "type": "folder"
+         }, {
+            "date_added": "13317330726191054",
+            "date_last_used": "0",
+            "guid": "a899caa4-e154-4171-8597-a97147fea483",
+            "id": "108",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Recently viewed – Figma",
+            "type": "url",
+            "url": "https://www.figma.com/files/recent?fuid=1097486149372896417"
          } ],
          "date_added": "13316282715695824",
          "date_last_used": "0",
-         "date_modified": "13316282859354882",
+         "date_modified": "13317330729724114",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks",
